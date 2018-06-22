@@ -8,8 +8,8 @@ This project is based on the “Benchmark Bond Trade Price Challenge” Kaggle c
 
 Original datasets were cleaned for this project, since most of them had datapoints with missing features values or invalid values. These are the datasets used in this project:
 
-- Training set: train_clean.csv (a cleaned version from the original training set in Benchmark solutions competition).
-- Test set: test_clean.csv (a cleaned version from the original test set in the Benchmark solutions kaggle competition).
+- Training set: train_clean.csv (a cleaned version from the original training set in Benchmark solutions competition). Get dataset [here](https://drive.google.com/open?id=1X02otlOcnOan1qi3L5PPedyfiIj4J8XS).
+- Test set: test_clean.csv (a cleaned version from the original test set in the Benchmark solutions kaggle competition). Get dataset [here](https://drive.google.com/open?id=1FerHHQoqmU11sEzfOxctikI1X00liYg7).
 
 ##### Install
 
